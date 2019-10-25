@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+E:\JSP-Servlets-JDBC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2884291122.index
+\jspdemo\src
+E:\JSP-Servlets-JDBC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1154960370.index
+\tagdemo\src
+E:\JSP-Servlets-JDBC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\816415338.index
+\web-student-tracker\src
+E:\JSP-Servlets-JDBC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2310109372.index
+\web-student-tracker-jstl\src
+E:\JSP-Servlets-JDBC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3787032229.index
+\web-student-tracker\src
+E:\JSP-Servlets-JDBC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\268336506.index
+\servletdemo\src

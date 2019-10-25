@@ -1,0 +1,15 @@
+127.0.0.1 - - [11/Oct/2019:16:17:46 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:16:17:47 +0530] "GET /servletdemo/MvcDemoServlet HTTP/1.1" 500 3152
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:16:18:35 +0530] "GET /servletdemo/MvcDemoServlet HTTP/1.1" 200 225
+127.0.0.1 - - [11/Oct/2019:17:13:42 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:17:13:45 +0530] "GET /servletdemo/MvcDemoServletTwo HTTP/1.1" 200 505
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:17:14:48 +0530] "GET /servletdemo/MvcDemoServletTwo HTTP/1.1" 200 516
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:17:15:46 +0530] "GET /servletdemo/MvcDemoServletTwo HTTP/1.1" 200 570
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:17:18:02 +0530] "GET /servletdemo/index.html HTTP/1.1" 200 199
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:17:18:04 +0530] "GET /servletdemo/MvcDemoServletTwo HTTP/1.1" 200 570
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:17:18:14 +0530] "GET /servletdemo/MvcDemoServletTwo HTTP/1.1" 200 570
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:17:18:17 +0530] "GET /servletdemo/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:17:18:25 +0530] "GET /servletdemo/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:17:18:27 +0530] "GET /servletdemo/MvcDemoServletTwo HTTP/1.1" 200 570
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:17:18:43 +0530] "GET /servletdemo/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:17:18:45 +0530] "GET /servletdemo/MvcDemoServletTwo HTTP/1.1" 200 570
